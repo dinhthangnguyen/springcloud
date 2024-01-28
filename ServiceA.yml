@@ -1,10 +1,1 @@
-greeting: Hello from Service A, with @RefreshScope
-
-server:
-  port: 8090
-
-management:
-  endpoints: 
-    web: 
-      exposure:
-        include: refresh
+greeting: Hello from Service A By Dinh Git
