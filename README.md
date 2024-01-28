@@ -1,2 +1,2 @@
 # springcloud
-Use this to set config for Springboot services
+Repository for the spring cloud training
